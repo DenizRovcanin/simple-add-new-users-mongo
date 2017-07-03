@@ -1,6 +1,6 @@
 {
-  "name": "mongodb",
-  "version": "0.0.0",
+  "name": "add-view-users",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -16,5 +16,18 @@
     "morgan": "~1.8.1",
     "nodemon": "^1.11.0",
     "serve-favicon": "~2.4.2"
-  }
+  },
+  "description": "A handy Express app that lets you add users and view them. Templating engine is Jade. For database I used Mongo with monk (https://www.npmjs.com/package/monk).",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenizRovcanin/simple-add-new-users-mongo.git"
+  },
+  "author": "\"Deniz Rovcanin\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DenizRovcanin/simple-add-new-users-mongo/issues"
+  },
+  "homepage": "https://github.com/DenizRovcanin/simple-add-new-users-mongo#readme"
 }
