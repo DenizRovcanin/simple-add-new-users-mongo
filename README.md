@@ -5,3 +5,5 @@ A handy Express app that lets you add users and view them. Templating engine is 
 Two main routes are: `/adduser` and `/userlist`.
 
 To start simply type `npm install` and `node app.js` in your console/terminal.
+
+Navigate to `http://localhost:8080`
