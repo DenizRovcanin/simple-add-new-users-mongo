@@ -6,4 +6,4 @@ Two main routes are: `/adduser` and `/userlist`.
 
 To start simply type `npm install` and `node app.js` in your console/terminal.
 
-Navigate to `http://localhost:8080`
+Navigate to `http://localhost:8080`.
